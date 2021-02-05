@@ -1,1 +1,1 @@
-echo '{hhhhh}' 
+document.write("<h1>value is 1</h1>");
